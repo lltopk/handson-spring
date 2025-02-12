@@ -568,4 +568,7 @@ normal bean -------------- com.test.controller.HelloWorldBean----------------com
   - 新建AsyncAnnotationAdvisor持有AsyncExecutionInterceptor的单向引用
   - 扩展JdkDynamicAopProxy，使其支持PointcutAdvisor和AsyncAnnotationAdvisor两种Advisor
 
-## handson-tomcat敬请期待....
+
+
+> 友情链接：https://github.com/Halfmoonly/handson-tomcat
+
