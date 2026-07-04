@@ -1,4 +1,4 @@
-> 介绍个新的项目: 手写服务器Tomcat：https://github.com/lltopk/handson-tomcat
+> 更进一步 手写服务器Tomcat：https://github.com/lltopk/handson-tomcat
 > 
 > 不同于springboot内嵌, 教你用handson-tomcat托管handson-spring
 
